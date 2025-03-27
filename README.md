@@ -1,4 +1,4 @@
-# 🤖 Deep Learning Project – Signal Classification & Digit Recognition with Neural Networks
+# 🤖 Signal Quality Classification and Digit Recognition using Deep Learning
 
 ## 📌 Project Overview
 
